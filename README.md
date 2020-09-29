@@ -1,2 +1,2 @@
 # Racer
-First python program to understand python syntax
+First python program to understand its syntax
